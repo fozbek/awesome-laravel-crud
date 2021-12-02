@@ -11,6 +11,7 @@
 - [Maelstrom](https://github.com/maelstrom-cms/toolkit)
 - [Voyager](https://github.com/the-control-group/voyager)
 - [Nebula](https://nebulapackage.com/)
+- [AdminArchitect](https://github.com/adminarchitect/core)
 
 ## Commercial
 - [Nova](https://nova.laravel.com/)
