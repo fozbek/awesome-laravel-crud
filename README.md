@@ -11,6 +11,7 @@
 - [Voyager](https://github.com/the-control-group/voyager)
 - [Nebula](https://nebulapackage.com/)
 - [AdminArchitect](https://github.com/adminarchitect/core)
+- [QuickAdminPanel](https://quickadminpanel.com/)
 
 ## Commercial
 - [Nova](https://nova.laravel.com/)
